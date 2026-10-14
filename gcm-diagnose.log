@@ -1,0 +1,178 @@
+﻿Diagnose log at 2026-10-14T18:03:20Z
+
+AppPath: C:\Program Files\Git\mingw64\bin\git-credential-manager.exe
+InstallDir: C:\Program Files\Git\mingw64\bin\
+Version: 2.5.0+d34930736e131ad80e5690e5634ced1808aff3e2
+
+------------
+Diagnostic: Environment
+Skipped: False
+Success: True
+Exception: None
+Log:
+OSType: Windows
+OSVersion: 10.0 (build 22631)
+Reading environment variables... OK
+ Variables:
+PROCESSOR_ARCHITEW6432=AMD64
+DriverData=C:\Windows\System32\Drivers\DriverData
+COMPUTERNAME=DESKTOP-O5A5E6C
+GIT_TRACE2_PARENT_SID=8502ca13-f623-4049-9b02-9cc445eeb3c2
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+OneDrive=C:\Users\LENOVO\OneDrive
+HOMEPATH=\Users\LENOVO
+USERNAME=LENOVO
+ANTIGRAVITY_SAFECLIS_SOURCE=C:/Users/LENOVO/.gemini/antigravity-ide/bin/safeclis/src
+TMP=C:\Users\LENOVO\AppData\Local\Temp
+ANTIGRAVITY_TRAJECTORY_ID=d578573e-e8b5-4809-8328-3da84a259e19
+PROCESSOR_REVISION=4401
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.CPL
+VSCODE_IPC_HOOK=\\.\pipe\e2915d03-1.107.0-main-sock
+ANTIGRAVITY_EDITOR_APP_ROOT=c:\Users\LENOVO\AppData\Local\Programs\Antigravity IDE\resources\app
+ProgramFiles(x86)=C:\Program Files (x86)
+TEMP=C:\Users\LENOVO\AppData\Local\Temp
+LOCALAPPDATA=C:\Users\LENOVO\AppData\Local
+PUBLIC=C:\Users\Public
+PROCESSOR_IDENTIFIER=AMD64 Family 25 Model 68 Stepping 1, AuthenticAMD
+USERDOMAIN=DESKTOP-O5A5E6C
+ANTIGRAVITY_CONVERSATION_ID=63409540-3301-492d-9138-5763c2a71cc9
+ANTIGRAVITY_LS_VERSION=ide-2.4.5
+PROCESSOR_LEVEL=25
+NUMBER_OF_PROCESSORS=16
+APPDATA=C:\Users\LENOVO\AppData\Roaming
+ANTIGRAVITY_CSRF_TOKEN=6f25a280-7aa6-427c-b252-f0d347d2e9d2
+PSModulePath=C:\Users\LENOVO\Documents\WindowsPowerShell\Modules;C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules
+EFC_14388=1
+CommonProgramFiles=C:\Program Files (x86)\Common Files
+STM32CubeMX_PATH=C:\Users\LENOVO\AppData\Local\Programs\STM32CubeMX
+VSCODE_NLS_CONFIG={"userLocale":"en-us","osLocale":"en-in","resolvedLanguage":"en","defaultMessagesFile":"C:\\Users\\LENOVO\\AppData\\Local\\Programs\\Antigravity IDE\\resources\\app\\out\\nls.messages.json","locale":"en-us","availableLanguages":{}}
+ANTIGRAVITY_LS_ADDRESS=localhost:52135
+ProgramData=C:\ProgramData
+ProgramW6432=C:\Program Files
+PATH=C:/Users/LENOVO/.gemini/antigravity-ide/bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\LENOVO\.local\bin;C:\Users\LENOVO\AppData\Local\Programs\Python\Launcher\;C:\Users\LENOVO\AppData\Local\Microsoft\WindowsApps;C:\Users\LENOVO\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\LENOVO\AppData\Local\GitHubDesktop\bin;C:\Users\LENOVO\AppData\Local\Programs\Antigravity IDE\bin
+ProgramFiles=C:\Program Files (x86)
+VSCODE_CODE_CACHE_PATH=C:\Users\LENOVO\AppData\Roaming\Antigravity IDE\CachedData\ecfbad74d93962fc8ca485d93ab9b4f3d4cb6cf8
+SystemRoot=C:\Windows
+ANTIGRAVITY_SOURCE_METADATA={"tool":{"conversationId":"63409540-3301-492d-9138-5763c2a71cc9","stepIndex":109,"toolCall":{"id":"call_2254338","name":"run_command","argumentsJson":"{\"CommandLine\":\"\\u0026 \\\"C:\\\\Program Files\\\\Git\\\\mingw64\\\\bin\\\\git-credential-manager.exe\\\" diagnose\",\"Cwd\":\"c:\\\\DSA project\",\"WaitMsBeforeAsync\":5000,\"toolAction\":\"Diagnosing GCM\",\"toolSummary\":\"Diagnose GCM\"}","thinkingSignature":"Er4BCrsBAWkUfRPpftdykqiTecQKriLy/gG2UG86ydUFkdWwQ7vQ5XEbrUPgxYMba29FqLKMLTXhmd9hiRhRFihAHVCI4QwqxI62Lo3Lx/sTAaMbQI6REVaYYXXc6PNalEjSMkUSFaxJa3cZPqneXaCoEnYoO71pRPG5yApKn74MB589EBR0Kpr3XBFrL9D+MWoY8b9fMT7uQVv1B9EDvboUtnMdFW2nwVEZUHmZ2Ci2vG26cnw2ztV69q5g7x+7WA==","originalName":"run_command"}}}
+SESSIONNAME=Console
+ANTIGRAVITY_AGENT=1
+CommonProgramW6432=C:\Program Files\Common Files
+LOGONSERVER=\\DESKTOP-O5A5E6C
+USERPROFILE=C:\Users\LENOVO
+USERDOMAIN_ROAMINGPROFILE=DESKTOP-O5A5E6C
+ANTIGRAVITY_AGENTAPI_EXE=c:\Users\LENOVO\AppData\Local\Programs\Antigravity IDE\resources\app\extensions\antigravity\bin\language_server_windows_x64.exe
+HOMEDRIVE=C:
+VSCODE_PID=8252
+VSCODE_CWD=C:\Users\LENOVO\AppData\Local\Programs\Antigravity IDE
+CHROME_CRASHPAD_PIPE_NAME=\\.\pipe\crashpad_8252_QCZNBQFAKTQPEQXZ
+PROCESSOR_ARCHITECTURE=x86
+OS=Windows_NT
+ComSpec=C:\Windows\system32\cmd.exe
+SystemDrive=C:
+windir=C:\Windows
+OneDriveConsumer=C:\Users\LENOVO\OneDrive
+ALLUSERSPROFILE=C:\ProgramData
+
+
+------------
+Diagnostic: File system
+Skipped: False
+Success: True
+Exception: None
+Log:
+Temporary directory is 'C:\Users\LENOVO\AppData\Local\Temp\'...
+Checking basic file I/O...
+Writing to temporary file 'C:\Users\LENOVO\AppData\Local\Temp\afbe4f5bbaf521b47c58b81c'... OK
+Reading from temporary file 'C:\Users\LENOVO\AppData\Local\Temp\afbe4f5bbaf521b47c58b81c'... OK
+Deleting temporary file 'C:\Users\LENOVO\AppData\Local\Temp\afbe4f5bbaf521b47c58b81c'... OK
+Testing IFileSystem instance...
+UserHomePath: C:\Users\LENOVO
+UserDataDirectoryPath: C:\Users\LENOVO\.gcm
+GetCurrentDirectory(): C:\DSA project
+
+------------
+Diagnostic: Networking
+Skipped: False
+Success: True
+Exception: None
+Log:
+Checking networking and HTTP stack...
+Creating HTTP client... OK
+IsNetworkAvailable: True
+Sending HEAD request to http://example.com...Sending HEAD request to https://example.com... OK
+Acquiring free TCP port... OK
+Testing local HTTP loopback connections...
+Creating new HTTP listener for http://localhost:61805/... OK
+Waiting for loopback connection... OK
+Writing response... OK
+Waiting for response data... OK
+Loopback connection data OK
+
+------------
+Diagnostic: Git
+Skipped: False
+Success: True
+Exception: None
+Log:
+Getting Git version... OK
+Git version is '2.45.1.windows.1'
+Locating current repository...Git repository at 'C:/DSA project/.git'
+ OK
+Listing all Git configuration... OK
+Git configuration:
+file:C:/Program Files/Git/etc/gitconfig	diff.astextplain.textconv=astextplain
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.clean=git-lfs clean -- %f
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.smudge=git-lfs smudge -- %f
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.process=git-lfs filter-process
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.required=true
+file:C:/Program Files/Git/etc/gitconfig	http.sslbackend=openssl
+file:C:/Program Files/Git/etc/gitconfig	http.sslcainfo=C:/Program Files/Git/mingw64/etc/ssl/certs/ca-bundle.crt
+file:C:/Program Files/Git/etc/gitconfig	core.autocrlf=true
+file:C:/Program Files/Git/etc/gitconfig	core.fscache=true
+file:C:/Program Files/Git/etc/gitconfig	core.symlinks=false
+file:C:/Program Files/Git/etc/gitconfig	pull.rebase=false
+file:C:/Program Files/Git/etc/gitconfig	credential.helper=manager
+file:C:/Program Files/Git/etc/gitconfig	credential.https://dev.azure.com.usehttppath=true
+file:C:/Program Files/Git/etc/gitconfig	init.defaultbranch=master
+file:C:/Users/LENOVO/.gitconfig	filter.lfs.clean=git-lfs clean -- %f
+file:C:/Users/LENOVO/.gitconfig	filter.lfs.smudge=git-lfs smudge -- %f
+file:C:/Users/LENOVO/.gitconfig	filter.lfs.process=git-lfs filter-process
+file:C:/Users/LENOVO/.gitconfig	filter.lfs.required=true
+file:.git/config	core.repositoryformatversion=0
+file:.git/config	core.filemode=false
+file:.git/config	core.bare=false
+file:.git/config	core.logallrefupdates=true
+file:.git/config	core.symlinks=false
+file:.git/config	core.ignorecase=true
+file:.git/config	user.name=ajithkancharlas8-coder
+file:.git/config	user.email=ajithkancharlas8@gmail.com
+file:.git/config	remote.origin.url=https://github.com/ajithkancharlas8-coder/lifedata.git
+file:.git/config	remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+
+
+------------
+Diagnostic: Credential storage
+Skipped: False
+Success: True
+Exception: None
+Log:
+ICredentialStore instance is of type: CredentialStore
+Writing test credential... OK
+Reading test credential... OK
+Deleting test credential... OK
+
+------------
+Diagnostic: Microsoft authentication (AAD/MSA)
+Skipped: False
+Success: True
+Exception: None
+Log:
+Broker is not enabled.
+Flow type is: Auto
+Gathering MSAL token cache data... OK
+CacheDirectory: C:\Users\LENOVO\AppData\Local\.IdentityService
+CacheFileName: msal.cache
+CacheFilePath: C:\Users\LENOVO\AppData\Local\.IdentityService\msal.cache
+Creating cache helper... OK
+Verifying MSAL token cache persistence... OK
+
